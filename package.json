@@ -14,7 +14,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "mongodb-memory-server": "^3.0.0",
-    "mongoose": "^5.4.6",
+    "mongoose": "^6.13.6",
     "swagger-ui-express": "^4.0.2",
     "winston": "^3.1.0"
   },
