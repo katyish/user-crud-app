@@ -23,7 +23,7 @@
     "eslint-plugin-mocha": "^5.2.1",
     "expect": "^30.0.4",
     "mocha": "^5.2.0",
-    "nyc": "^13.1.0",
+    "nyc": "^17.1.0",
     "supertest": "^3.4.1"
   }
 }
